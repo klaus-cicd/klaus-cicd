@@ -42,7 +42,7 @@
 </div>
 
 <hr/>
-<h2>Languages & Frameworks & Tools</h2>
+<h2 align="center">Languages & Frameworks & Tools</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
