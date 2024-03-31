@@ -1,26 +1,41 @@
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=400&lines=%22Hello%2C%20World! I'm Klaus%22;&center=true&size=27"/>
+    <a href="https://blossom.wynnspace.cn/bl/blog/#/home"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
     <img src="https://github.com/klaus-cicd/klaus-cicd/blob/main/profile-snake-contrib/github-contribution-grid-snake.svg?raw=true"/>
 <div align="center">
-    <a href="https://blossom.wynnspace.cn/bl/blog/#/home"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
 </div>
 <hr/>
 </div>
-<h2>About me</h2>
 
-- ❤️ 选择编程是因为喜欢
-- ☕️ 现以后端开发为主
-- 🔧 可兼任半个运维
-- ⭐️ 目标是全栈
+<div align="center">
+            <table >
+        <tr align="center">
+            <td>
+                <h2>About me</h2>
+            </td>
+            <td>
+                <h2>Current doing</h2>
+            </td>
+        </tr>
+        <tr>
+            <td>        
 
-<hr/>
-<h2>Current doing</h2>
+  - ❤️ 选择编程是因为喜欢
+  - ☕️ 现以后端开发为主
+  - 🔧 可兼任半个运维
+  - ⭐️ 目标是全栈
+              </td>
+              <td>
 
-- 🧱 项目快速搭建基础框架开发
-- 📚 个人博客搭建
-- 💻 家用服务器搭建
-- 💪 前端开发（TS、Vue、JS）
-- 🔌 物联网开发
+      - 🧱 项目快速搭建基础框架开发
+      - 📚 个人博客搭建
+      - 💻 家用服务器搭建
+      - 💪 前端开发（TS、Vue、JS）
+      - 🔌 物联网开发
+                  </td>
+              </tr>
+          </table>    
+</div>
 
 <hr/>
 <h2>Languages & Frameworks & Tools</h2>
@@ -42,11 +57,4 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 <img alt="Static Badge" src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker">
-</div>
-
-<div>
-<h2>GitHub stats</h2>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=klaus-cicd&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-    </div>
 </div>
