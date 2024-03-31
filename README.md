@@ -1,14 +1,18 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=400&lines=%22Hello%2C%20World! I'm Klaus%22;&center=true&size=27"/>
+    <!-- 动态字 -->
+    <a href="http://blossom.wynnspace.cn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=400&lines=%22Hello%2C%20World! I'm Klaus%22;&center=true&size=27"/></a>
+    <!-- 徽章 -->
     <a href="https://blossom.wynnspace.cn/bl/blog/#/home"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
+    <!-- 贪吃蛇 -->
     <img src="https://github.com/klaus-cicd/klaus-cicd/blob/main/profile-snake-contrib/github-contribution-grid-snake.svg?raw=true"/>
+
 <div align="center">
 </div>
 <hr/>
 </div>
 
 <div align="center">
-            <table >
+    <table >
         <tr align="center">
             <td>
                 <h2>About me</h2>
@@ -20,8 +24,8 @@
         <tr>
             <td>        
 
-  - ❤️ 选择编程是因为喜欢
-  - ☕️ 现以后端开发为主
+  - ❤️ 编程是因为喜欢
+  - ☕️ 后端开发为主
   - 🔧 可兼任半个运维
   - ⭐️ 目标是全栈
               </td>
@@ -34,7 +38,7 @@
       - 🔌 物联网开发
                   </td>
               </tr>
-          </table>    
+    </table>    
 </div>
 
 <hr/>
