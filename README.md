@@ -53,6 +53,7 @@
 <img src="https://img.shields.io/badge/MySQL-00000f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Static Badge" src="https://img.shields.io/badge/Redis-55555?style=for-the-badge&logo=redis">
 <img src="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/TDengine-4A83F6.svg?style=for-the-badge&logo=tdengine&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/TS-11111?style=for-the-badge&logo=TypeScript">
