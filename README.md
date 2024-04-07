@@ -1,7 +1,7 @@
 <div align="center">
     <!-- 动态字 -->
     <a href="http://blossom.wynnspace.cn">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=400&lines=%22Hello%2C%20World%22;&center=true&size=27"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=400&lines=log.info(%22Hello%2C%20World%22);&center=true&size=27"/>
     </a>
 
 [![github-stats]][home]
